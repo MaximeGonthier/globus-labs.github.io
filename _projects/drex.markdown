@@ -42,4 +42,4 @@ Using diverse datasets, we ran extensive simulations and demonstrated that, on a
 
 #### Funding and Acknowledgements
 <!-- List any funding sources or other acknowledgements here otherwise remove -->
-Based upon work supported by the U.S. Department of Energy (DOE), Office of Science, Office of Advanced Scientific Computing Research, under Contract DE-AC02-06CH11357. Partially funded by NSF, under Grant CSSI-2411386 and by MICIU/AEI\-/\-10.13039/\-501100011033/``FEDER Una manera de hacer Europa'' under the project PID2022-138050NB-I00. We gratefully acknowledge the support of Chameleon Cloud for providing the computational resources (project CHI-231082).
+Based upon work supported by the U.S. Department of Energy (DOE), Office of Science, Office of Advanced Scientific Computing Research, under Contract DE-AC02-06CH11357. Partially funded by NSF, under Grant CSSI-2411386 and by MICIU/AEI-10.13039501100011033/``FEDER Una manera de hacer Europa'' under the project PID2022-138050NB-I00. We gratefully acknowledge the support of Chameleon Cloud for providing the computational resources (project CHI-231082).
